@@ -6,5 +6,3 @@ Notes
 * custom user preferences / layout changes (color scheme, winning value)
 * user movement and game tracking (stored history, data for diagnostic charts, supports Undo function)
 * AI / Monte Carlo simulations (supports Hint function and evaluates suggested next move, performs random simulations, performs expectimax based simulation to win the game)
-
-Made by Siddhartha Datta (ISOM3230, The Hong Kong University of Science & Technology)
